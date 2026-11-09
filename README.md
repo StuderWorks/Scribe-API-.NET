@@ -3,4 +3,4 @@
 
 **THIS IS A BETA RELEASE**
 
-More info in the wiki: https://github.com/JamesStuder/Scribe-API-.NET/wiki
+More info in the wiki: https://github.com/StuderWorks/Scribe-API-.NET/wiki
